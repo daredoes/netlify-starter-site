@@ -1,0 +1,11 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Site Name"
+
+[params]
+  description = "An example website built by [@daredoes](https://github.com/daredoes) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
+
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+    weight = 1
